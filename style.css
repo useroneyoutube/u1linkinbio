@@ -1,0 +1,23 @@
+@font-face {font-family: Exo2; src: url("https://cdn.glitch.global/0115084d-30e4-41f1-a3fb-ef4038ca691c/Exo2-VariableFont_wght.ttf?v=1672518175163");}
+
+body {background-color: #99dffa; color: Black; font-family: Exo2; padding: 50px 100px;}
+
+h1 {font-size: 50px;}
+
+hr {background-color: Black; height: 1px; border: none;}
+
+/* hr element is a dividing line */
+
+a {background-color: #000f1a; padding: 20px 150px; text-decoration: none; border-radius: 100px; width: 500px; font-family: Exo2; font-size: 15px; color: White;}
+
+/* a element is the links in the link in bio */
+
+/* Now we are going to make some custom elements */
+
+.container {padding: 40px 50px; width: 500px; }
+
+.profile {display: flex; align-items: center;}
+
+.pfp {height: 100px; width: 100px; border-radius: 100%; margin: 20px 50px;}
+
+/* Remember though, all of this code isnt final, I will post the final code in the GitHub file */
